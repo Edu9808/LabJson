@@ -1,0 +1,72 @@
+.Boton_Post
+{
+    width: 10%;
+    background-color: greenyellow;
+    font: message-box;
+    color: white;
+    font-size: medium;
+    font-family:cursive;
+    margin-top: 1%;
+    margin-left: 3%;
+    border: 1px solid grey;
+
+    box-shadow: -3px 0px 8px #000;
+
+    transition: 1s;
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+
+    
+
+}
+
+.Boton_Post:hover
+{
+    background-color:deepskyblue;
+    border: 2px solid grey;
+    width: 10%;
+    transform: rotate(360deg);
+    
+}
+
+.Entrada_Numerica
+{
+
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+.Texto_Registros
+{
+    margin-left: 3%;
+}
+.div1
+{
+    float: left;
+    color: rgba(238, 124, 17, 0.726);
+    width: 30%;
+    margin-top: 10%;
+    text-align: center;
+
+
+
+}
+.Cont_id{
+
+    float: left;
+    width:30%;
+    margin-right: 3%;
+}
+.Cont_Title{
+    float: left;
+    width:30%;
+    margin-right: 3%;
+}
+.imagen{
+    float: left;
+    width:30%;
+    margin-right: 4%;
+}
+
